@@ -9,7 +9,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/nodejs-007396?style=for-the-badge&logo=java&logoColor=white" alt="nodejs" />
 </p>
 
 ### 🚀 关于我
@@ -21,5 +21,5 @@
 
 ### 📊 GitHub 统计数据
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yangchao525644216&show_icons=true&theme=radial" alt="yangchao's GitHub stats" height="150" />
+  <img src="https://img.shields.io/badge/统计数据-007396?style=for-the-badge&logo=java&logoColor=white" alt="xiaoheizi's GitHub stats" height="150" />
 </p>
